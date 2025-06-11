@@ -1,4 +1,6 @@
-vendor/
-.DS_Store
-*.log
+/vendor
 .env
+*.log
+.DS_Store
+.phpunit.result.cache
+composer.lock
