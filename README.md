@@ -1,4 +1,4 @@
-# Booking System API — PHP Backend Clean Architecture
+# Booking System API — PHP Backend
 
 ## Description du projet
 
